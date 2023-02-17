@@ -13,7 +13,6 @@ const FreasherJob = () => {
                 
             })
     }, [])
-    console.log(catagori)
     return (
         <div className='row'>
             {    

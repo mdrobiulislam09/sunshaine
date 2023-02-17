@@ -8,22 +8,10 @@ const Footer = () => {
                 <div class="container">
                     <div class="row">
                         <div class="col-12 col-lg-5 col-xl-4 me-auto mb-5 mb-lg-0">
-                            <a class="footer-logo h2 text-primary mb-0 font-w-7" href="index.html">
+                            <span class="footer-logo h2 text-primary mb-0 font-w-7" href="index.html">
                                 W<span class="text-white font-w-4">inck.</span>
-                            </a>
+                            </span>
                             <p class="my-3 text-light">Winck - Bootstrap 5 Multipurpose Landing Page Is fully responsible, Build whatever you like with the Winck.</p>
-                            {/* <ul class="list-inline">
-                                <li class="list-inline-item"><a class="border rounded px-2 py-1 text-light" href="#"><i class="la la-facebook"></i></a>
-                                </li>
-                                <li class="list-inline-item"><a class="border rounded px-2 py-1 text-light" href="#"><i class="la la-dribbble"></i></a>
-                                </li>
-                                <li class="list-inline-item"><a class="border rounded px-2 py-1 text-light" href="#"><i class="la la-instagram"></i></a>
-                                </li>
-                                <li class="list-inline-item"><a class="border rounded px-2 py-1 text-light" href="#"><i class="la la-twitter"></i></a>
-                                </li>
-                                <li class="list-inline-item"><a class="border rounded px-2 py-1 text-light" href="#"><i class="la la-linkedin"></i></a>
-                                </li>
-                            </ul> */}
                         </div>
                         <div class="col-12 col-lg-6 col-xl-7">
                             <div class="row">

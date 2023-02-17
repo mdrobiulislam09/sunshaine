@@ -3,7 +3,7 @@ import { Button } from 'react-bootstrap';
 
 const Confirm = () => {
     return (
-        <div>
+        <div className='text-center'>
             <Button>Confirm</Button>
         </div>
     );
